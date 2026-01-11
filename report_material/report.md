@@ -276,7 +276,10 @@ ReturnItem *----------1 Product
 ```
 
 ### 4.4. The relationship UML figure
-![Domain model UML figure](Domain_model_UML.png "Domain model UML figure")
+
+<div align="center">
+  <img src="Domain_model_UML.png" alt="Domain model UML figure" width="50%" />
+</div>
 
 ## 5. Logical Architecture
 ### 5.1 Logical architecture overview
